@@ -24,7 +24,7 @@ I discovered the power of computers a decade ago and have been self-learning pro
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/emmanuelmahove" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/emmanuel-mahove" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/emmanuelmahove" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://stackoverflow.com/users/11770891/emmanuel-mahove" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
 ### Badges
 

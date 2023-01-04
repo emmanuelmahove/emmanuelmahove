@@ -6,7 +6,7 @@
 ### <div align="center">I'm Emmanuel, a self-taught full-stack developer 👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [Lists - Shopping made simple](https://lists-a917b.web.app)  
+- 🔭 I’m currently working on [Lists - Simple shopping lists](https://play.google.com/store/apps/details?id=com.upsideright.lists)  
   
 
 - 🌱 I’m currently learning React Native and Typescript  
